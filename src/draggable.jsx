@@ -1,9 +1,9 @@
 import React, { PureComponent } from 'react';
 import ReactDOM from 'react-dom';
-import getPosition from '@/utils/getPosition';
-import getSize from '@/utils/getSize';
-import getComputedStyle from '@/utils/getComputedStyle';
 import PropTypes from 'prop-types';
+import getPosition from './utils/getPosition';
+import getSize from './utils/getSize';
+import getComputedStyle from './utils/getComputedStyle';
 import manager from './manager';
 
 class Draggable extends PureComponent {
