@@ -1,5 +1,10 @@
 # Drag and Drop 
 
+## Install
+```bash
+npm install --save react-draggable-and-droppable
+```
+
 ## Drag拖拽对象
 目前采用组件组合模式。此模式拖拽的源元素并不会移动。
 
