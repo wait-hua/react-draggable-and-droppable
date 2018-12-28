@@ -21,6 +21,9 @@
   "bugs": {
     "url": "https://github.com/wait-hua/react-draggable-and-droppable/issuess"
   },
+  "peerDependencies": {
+    "@babel/runtime": "^7.0.0"
+  },
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
