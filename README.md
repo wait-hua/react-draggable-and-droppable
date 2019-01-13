@@ -1,5 +1,7 @@
 # Drag and Drop 
 
+[![npm](https://img.shields.io/npm/v/react-draggable-and-droppable.svg)](https://www.npmjs.com/package/react-draggable-and-droppable)
+
 ## Install
 ```bash
 npm install --save react-draggable-and-droppable
